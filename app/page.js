@@ -49,7 +49,7 @@ export default function Home() {
             <Team />
             {/* <Testimonials /> */}
             {/* <Clients /> */}
-            <Marq2 />
+            {/* <Marq2 /> */}
           </main>
           <Footer />
         </div>

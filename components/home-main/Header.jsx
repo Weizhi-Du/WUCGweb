@@ -38,11 +38,11 @@ function Header() {
                 <div>
                   <div className="text ml-30">
                     <p>
-                    Join our club to master LeetCode, boost your GPA, excel in projects, and secure top jobs.{' '}
+                      We foster a supportive and inclusive community for{' '}
                       <span className="text-light fw-600">
-                      We are here to help you
+                        Chinese computer science students
                       </span>{' '}
-                      achieve academic and career success.
+                      at Washington University, where passions are shared, and everyone uplifts one another.
                     </p>
                   </div>
                 </div>
