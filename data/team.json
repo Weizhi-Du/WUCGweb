@@ -1,0 +1,23 @@
+[
+  {
+    "img": "/assets/imgs/team/1.jpg",
+    "name": "Dijkstra",
+    "subName": "Founder",
+    "ins": "#0",
+    "linkedIn": "#0"
+  },
+  {
+    "img": "/assets/imgs/team/2.jpg",
+    "name": "Zhengyuhan Yan",
+    "subName": "Founder",
+    "ins": "#0",
+    "linkedIn": "https://www.linkedin.com/in/zhengyuhanyan/"
+  },
+  {
+    "img": "/assets/imgs/team/3.jpg",
+    "name": "Ryan",
+    "subName": "Founder",
+    "ins": "#0",
+    "linkedIn": "#0"
+  }
+]
