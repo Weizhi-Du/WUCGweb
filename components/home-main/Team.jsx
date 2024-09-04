@@ -16,7 +16,7 @@ function Team() {
             </div>
             <div className="ml-auto vi-more">
               <a href="/page-404" className="butn butn-sm butn-bord radius-30">
-                <span>Join to us</span>
+                <span>Join us</span>
               </a>
               <span className="icon ti-arrow-top-right"></span>
             </div>
