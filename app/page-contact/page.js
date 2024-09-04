@@ -44,19 +44,19 @@ export default function Home() {
       </div>
       <Script
         src="/assets/js/ScrollTrigger.min.js"
-        strategy="beforeInteractive"
+        strategy="lazyOnload"
       />
       <Script
         src="/assets/js/ScrollSmoother.min.js"
-        strategy="beforeInteractive"
+        strategy="lazyOnload"
       />
-      <Script strategy="beforeInteractive" src="/assets/js/plugins.js"></Script>
+      <Script strategy="lazyOnload" src="/assets/js/plugins.js"></Script>
       <Script
-        strategy="beforeInteractive"
+        strategy="lazyOnload"
         src="/assets/js/TweenMax.min.js"
       ></Script>
       <Script
-        strategy="beforeInteractive"
+        strategy="lazyOnload""
         src="/assets/js/charming.min.js"
       ></Script>
       <Script
