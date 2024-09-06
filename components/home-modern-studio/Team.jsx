@@ -7,18 +7,12 @@ function Team() {
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
-              <span className="sub-title main-color mb-5">Our Team</span>
+              <span className="sub-title main-color mb-5">Judges</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
-                  Meet our <span className="fw-200">legends.</span>
+                  Meet our <span className="fw-200">Judges</span>
                 </span>
               </h3>
-            </div>
-            <div className="ml-auto vi-more">
-              <a href="/page-team" className="butn butn-sm butn-bord radius-30">
-                <span>Join to us</span>
-              </a>
-              <span className="icon ti-arrow-top-right"></span>
             </div>
           </div>
         </div>
@@ -61,7 +55,7 @@ function Team() {
             <div className="item-bord d-flex align-items-center justify-content-center mb-50">
               <div>
                 <h5>
-                  Become <br /> Our Member
+                  Become <br /> Our Judges
                 </h5>
                 <a href="#0" className="mt-30">
                   <span className="ti-arrow-top-right fz-30"></span>

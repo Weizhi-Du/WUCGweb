@@ -67,8 +67,8 @@ function Navbar() {
         >
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link" href="/page-404">
-                <span className="rolling-text">About</span>
+              <a className="nav-link" href="/hackathon">
+                <span className="rolling-text">Hackathon</span>
               </a>
             </li>
             <li className="nav-item">

@@ -7,26 +7,15 @@ function Services() {
         <div className="row">
           <div className="col-lg-4">
             <div className="sec-head md-mb80">
-              <h6 className="sub-title main-color mb-15">Our Services</h6>
-              <h2>The Best Solution For Your Business</h2>
-              <a
-                href="/page-services"
-                className="butn-crev d-flex align-items-center mt-30"
-              >
-                <span className="hover-this">
-                  <span className="circle hover-anim">
-                    <i className="ti-arrow-top-right"></i>
-                  </span>
-                </span>
-                <span className="text">Learn more</span>
-              </a>
+              <h6 className="sub-title main-color mb-15">Roles</h6>
+              <h2>Choose The Role You Want To Be</h2>
             </div>
           </div>
           <div className="col-lg-7 offset-lg-1">
             <div className="item d-flex align-items-center">
               <span className="num">01</span>
               <div>
-                <span className="sub-title main-color mb-10">Web Design</span>
+                <span className="sub-title main-color mb-10">Role</span>
                 <h2>
                   UI / UX <span className="fw-200">Web Design</span>
                 </h2>
@@ -40,9 +29,9 @@ function Services() {
             <div className="item d-flex align-items-center">
               <span className="num">02</span>
               <div>
-                <span className="sub-title main-color mb-10">Web Design</span>
+                <span className="sub-title main-color mb-10">Role</span>
                 <h2>
-                  Brand <span className="fw-200">Strategy</span>
+                  SWE <span className="fw-200">Engineer</span>
                 </h2>
               </div>
               <div className="ml-auto">
@@ -54,7 +43,7 @@ function Services() {
             <div className="item d-flex align-items-center">
               <span className="num">03</span>
               <div>
-                <span className="sub-title main-color mb-10">Web Design</span>
+                <span className="sub-title main-color mb-10">Role</span>
                 <h2>
                   SEO / <span className="fw-200">Marketing</span>
                 </h2>
@@ -68,9 +57,9 @@ function Services() {
             <div className="item d-flex align-items-center">
               <span className="num">04</span>
               <div>
-                <span className="sub-title main-color mb-10">Web Design</span>
+                <span className="sub-title main-color mb-10">Role</span>
                 <h2>
-                  Content <span className="fw-200">Writing</span>
+                  PDM <span className="fw-200">Manager</span>
                 </h2>
               </div>
               <div className="ml-auto">
