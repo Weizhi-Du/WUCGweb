@@ -47,7 +47,6 @@ export default function Home() {
             <Header />
             <Challenge />
             <Services />
-            {/* <Works /> */}
             <Solution />
             <WhatToBuild />
             <WhatToSubmit />
