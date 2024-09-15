@@ -61,7 +61,7 @@ function Header() {
               <h2 className="mb-10">80 +</h2>
               <h6>
                 Club Members <br />
-                <span className="main-color">Has Join</span>
+                <span className="main-color">Have joined</span>
               </h6>
             </div>
           </div>
