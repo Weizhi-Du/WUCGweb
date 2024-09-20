@@ -16,11 +16,9 @@ function Prizes() {
                     We have exciting prizes up for grabs for the best teams:
                   </p>
                   <ul className="fz-18">
-                    <li><strong>1st Place:</strong> $300, JBL Speaker</li>
-                    <li><strong>2nd Place:</strong> $200, Apple Airpods</li>
-                    <li><strong>3rd Place:</strong> $100, Keyboards</li>
-                    <li><strong>4th Place:</strong> $50, xBox Controller</li>
-                    <li><strong>Best Newcomer Award:</strong> T-Shirts</li>
+                    <li><strong>AirTag</strong></li>
+                    <li><strong>Monitor</strong></li>
+                    <li><strong>And More!!!</strong></li>
                     <li><strong>Special Category Prizes:</strong> Prizes for the most creative project, best design, and most impactful solution!</li>
                   </ul>
                 </div>

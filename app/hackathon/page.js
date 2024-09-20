@@ -54,7 +54,7 @@ export default function Home() {
             <Prizes />
             <Portfolio />
             <Skills />
-            <Team />
+            {/* <Team /> */}
           </main>
           <Footer />
         </div>

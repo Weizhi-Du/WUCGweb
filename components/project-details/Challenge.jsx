@@ -10,7 +10,7 @@ function Challenge() {
             <div className="col-md-6 col-lg-3">
               <div className="item mb-30">
                 <span className="opacity-8 mb-5">Prizes :</span>
-                <h6>$3000</h6>
+                <h6>$500</h6>
               </div>
             </div>
             <div className="col-md-6 col-lg-3">
@@ -22,13 +22,13 @@ function Challenge() {
             <div className="col-md-6 col-lg-3">
               <div className="item mb-30">
                 <span className="opacity-8 mb-5">Start Date :</span>
-                <h6>20 September 2024</h6>
+                <h6>21 September 2024</h6>
               </div>
             </div>
             <div className="col-md-6 col-lg-3">
               <div className="item">
                 <span className="opacity-8 mb-5">participants :</span>
-                <h6>63</h6>
+                <h6>58</h6>
               </div>
             </div>
           </div>

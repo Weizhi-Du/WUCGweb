@@ -21,9 +21,9 @@ function Skills() {
                 <div className="img">
                   <img src="/assets/imgs/resume/1.png" alt="" />
                 </div>
-                <span className="value">SWE</span>
+                <span className="value">Nextjs</span>
               </div>
-              <h6 className="fz-18">NextJS</h6>
+              <h6 className="fz-18">Advance with web development</h6>
             </div>
           </div>
           <div className="col-lg-2 col-md-4 col-6">
@@ -32,9 +32,9 @@ function Skills() {
                 <div className="img">
                   <img src="/assets/imgs/resume/2.png" alt="" />
                 </div>
-                <span className="value">SWE</span>
+                <span className="value">ReactJS</span>
               </div>
-              <h6 className="fz-18">ReactJS</h6>
+              <h6 className="fz-18">Intro to web development</h6>
             </div>
           </div>
           <div className="col-lg-2 col-md-4 col-6">
@@ -43,20 +43,20 @@ function Skills() {
                 <div className="img">
                   <img src="/assets/imgs/resume/3.png" alt="" />
                 </div>
-                <span className="value">PDM</span>
+                <span className="value">Figma</span>
               </div>
-              <h6 className="fz-18">Figma</h6>
+              <h6 className="fz-18">Start with UI/UX</h6>
             </div>
           </div>
           <div className="col-lg-2 col-md-4 col-6">
             <div className="item mb-30">
               <div className="box-bord">
                 <div className="img">
-                  <img src="/assets/imgs/resume/4.png" alt="" />
+                  <img src="/assets/imgs/resume/7.png" alt="" />
                 </div>
-                <span className="value">SWE</span>
+                <span className="value">OpenAi</span>
               </div>
-              <h6 className="fz-18">Web Dev</h6>
+              <h6 className="fz-18">Integrate AI into your project</h6>
             </div>
           </div>
           <div className="col-lg-2 col-md-4 col-6">
@@ -65,9 +65,9 @@ function Skills() {
                 <div className="img">
                   <img src="/assets/imgs/resume/5.png" alt="" />
                 </div>
-                <span className="value">SWE</span>
+                <span className="value">Linux</span>
               </div>
-              <h6 className="fz-18">Linux</h6>
+              <h6 className="fz-18">Basic of Linux</h6>
             </div>
           </div>
           <div className="col-lg-2 col-md-4 col-6">
@@ -76,9 +76,9 @@ function Skills() {
                 <div className="img">
                   <img src="/assets/imgs/resume/6.png" alt="" />
                 </div>
-                <span className="value">SWE</span>
+                <span className="value">AWS</span>
               </div>
-              <h6 className="fz-18">AWS</h6>
+              <h6 className="fz-18">Deploy your project on cloud</h6>
             </div>
           </div>
         </div>
