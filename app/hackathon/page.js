@@ -10,7 +10,7 @@ import Header from '@/components/project-details/Header';
 import Services from '@/components/home-modern-studio/Services';
 import Challenge from '@/components/project-details/Challenge';
 import Works from '@/components/project-details/Works';
-import Solution from '@/components/project-details/Solution';
+import CompetitionRules from '@/components/project-details/CompetitionRules';
 import WhatToBuild from '@/components/project-details/WhatToBuild';
 import WhatToSubmit from '@/components/project-details/WhatToSubmit';
 import Prizes from '@/components/project-details/Prizes';
@@ -47,7 +47,7 @@ export default function Home() {
             <Header />
             <Challenge />
             <Services />
-            <Solution />
+            <CompetitionRules />
             <WhatToBuild />
             <WhatToSubmit />
             <JudgingCriteria />
