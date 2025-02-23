@@ -10,7 +10,7 @@ function Intro() {
             <div className="row lg-marg align-items-center">
               <div className="col-md-6">
                 <div className="img1 sm-mb50">
-                  <img src="/assets/imgs/arw2.png" alt="" />
+                  <img src="/assets/imgs/arw3.png" alt="" />
                 </div>
               </div>
               <div className="col-md-6">
@@ -25,11 +25,11 @@ function Intro() {
                     in finding their ideal courses and excelling in them.
                   </p>
 
-                  <a href="/page-404" className="underline main-color mt-40">
+                  {/* <a href="/page-404" className="underline main-color mt-40">
                     <span className="text">
                       More About Us <i className="ti-arrow-top-right"></i>
                     </span>
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>

@@ -81,10 +81,10 @@ function Navbar() {
 
         <div className="contact-button">
           <a
-            href="/page-contact"
+            href="https://wustl.presence.io/organization/washington-university-chinese-groundbreakers"
             className="butn butn-sm butn-bg main-colorbg radius-5"
           >
-            <span className="text">Let&apos;s Connect</span>
+            <span className="text">Join US</span>
           </a>
         </div>
       </div>
