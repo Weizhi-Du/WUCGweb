@@ -20,7 +20,7 @@ function Footer() {
                 <a href="#0">official@wucg.club</a>
               </h6>
               <a href="#0" className="underline">
-                <span className="fz-22 main-color">+2 456 (343) 24 45</span>
+                <span className="fz-22 main-color">+1 (314) 934 9814</span>
               </a>
             </div>
           </div>
