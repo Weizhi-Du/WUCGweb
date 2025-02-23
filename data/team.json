@@ -1,58 +1,72 @@
 [
   {
-    "img": "/assets/imgs/team/1.jpg",
+    "img": "/assets/imgs/team/Dijkstra.jpg",
     "name": "Dijkstra",
-    "subName": "Founder",
+    "subName": "President",
+    "ins": "#0",
+    "linkedIn": "https://www.linkedin.com/in/dijkstra-liu/"
+  },
+  {
+    "img": "/assets/imgs/team/Ryan.jpg",
+    "name": "Ryan",
+    "subName": "Treasurer",
     "ins": "#0",
     "linkedIn": "#0"
   },
   {
-    "img": "/assets/imgs/team/2.jpg",
+    "img": "/assets/imgs/team/Weizhi.jpg",
+    "name": "Weizhi",
+    "subName": "Event Planner",
+    "ins": "#0",
+    "linkedIn": "#0"
+  },
+  {
+    "img": "/assets/imgs/team/Zheyuan.jpg",
+    "name": "Zheyuan",
+    "subName": "Event Planner",
+    "ins": "#0",
+    "linkedIn": "#0"
+  },
+  {
+    "img": "/assets/imgs/team/Alex.jpg",
+    "name": "Alex",
+    "subName": "Event Planner",
+    "ins": "#0",
+    "linkedIn": "#0"
+  },
+  {
+    "img": "/assets/imgs/team/Jack.jpg",
+    "name": "Jack",
+    "subName": "Event Planner",
+    "ins": "#0",
+    "linkedIn": "#0"
+  },
+  {
+    "img": "/assets/imgs/team/Monica.jpg",
+    "name": "Monica",
+    "subName": "Event Planner",
+    "ins": "#0",
+    "linkedIn": "#0"
+  },
+  {
+    "img": "/assets/imgs/team/Celina.jpg",
+    "name": "Celina",
+    "subName": "Marketing & Communications Officer",
+    "ins": "#0",
+    "linkedIn": "#0"
+  },
+  {
+    "img": "/assets/imgs/team/Rita.jpg",
+    "name": "Rita",
+    "subName": "Marketing & Communications Officer",
+    "ins": "#0",
+    "linkedIn": "#0"
+  },
+  {
+    "img": "/assets/imgs/team/Daniel.jpg",
     "name": "Daniel",
-    "subName": "Founder",
+    "subName": "Lead Mentor",
     "ins": "#0",
     "linkedIn": "https://www.linkedin.com/in/zhengyuhanyan/"
-  },
-  {
-    "img": "/assets/imgs/team/3.jpg",
-    "name": "Ryan",
-    "subName": "Founder",
-    "ins": "#0",
-    "linkedIn": "#0"
-  },
-  {
-    "img": "/assets/imgs/team/4.jpg",
-    "name": "Kevin",
-    "subName": "Founder",
-    "ins": "#0",
-    "linkedIn": "#0"
-  },
-  {
-    "img": "/assets/imgs/team/5.jpg",
-    "name": "Jonathan",
-    "subName": "Founder",
-    "ins": "#0",
-    "linkedIn": "#0"
-  },
-  {
-    "img": "/assets/imgs/team/6.jpg",
-    "name": "Alexander",
-    "subName": "Founder",
-    "ins": "#0",
-    "linkedIn": "#0"
-  },
-  {
-    "img": "/assets/imgs/team/7.jpg",
-    "name": "Aaron",
-    "subName": "Founder",
-    "ins": "#0",
-    "linkedIn": "#0"
-  },
-  {
-    "img": "/assets/imgs/team/8.jpg",
-    "name": "Zheyuan",
-    "subName": "Founder",
-    "ins": "#0",
-    "linkedIn": "#0"
   }
 ]
